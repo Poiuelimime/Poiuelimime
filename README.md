@@ -32,7 +32,7 @@ I make custom websites
 
 🧠 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,arduino,atom,bootstrap,css,html,js,php,py,pr,flutter&perline=3)](https://skillicons.dev)
 
 
 Experience with Python and libraries
