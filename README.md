@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Information
 Hello, I'm Elisey! 👋🏻
 
-⚛️ Frontend developer from the moscow ❄️
+⚛️Developer from the moscow ❄️
 
 🖥️ About Me:
 
@@ -31,6 +31,8 @@ I make custom websites
 
 
 🧠 My skills:
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 Experience with Python and libraries
 
